@@ -1,0 +1,11 @@
+.settings/
+.project
+.classpath
+target/
+/bin
+.springBeans
+nb-configuration.xml
+.DS_Store
+nbactions.xml
+/.idea
+*.iml
